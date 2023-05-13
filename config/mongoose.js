@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = process.env.HABIT_URI;
+//const uri = process.env.HABIT_URI;
 
 
 //local db settingss
