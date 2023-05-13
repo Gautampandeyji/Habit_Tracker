@@ -1,0 +1,18 @@
+{
+  "name": "habittracker",
+  "version": "1.0.0",
+  "description": "App that allows user to add habits and a weekly view of habits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.0.6"
+  }
+}
